@@ -1,5 +1,2 @@
 # nodebb-plugin
-A nodebb plugin
-
-Just install it, no configuration.
-"><script>alert(0x40)</script>
+used during security testing, do not install the plugin you do not know
