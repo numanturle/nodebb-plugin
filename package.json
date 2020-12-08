@@ -1,0 +1,19 @@
+{
+  "name": "nodebb-plugin",
+  "version": "1.1.0",
+  "description": "A nodebb plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/numanturle/nodebb-plugin"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin"
+  ],
+  "author": "numan turle",
+  "license": "Apache License 2.0",
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  }
+}

